@@ -1,16 +1,12 @@
-## Hi there 👋
 
-<!--
-**Circuitsboard/Circuitsboard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<font size="21">
+  
+<br>
+  <br>
+ 
+  <br>
+$${\color{#ad0909}   𝕀 \space 𝕨𝕒𝕤 \space  𝕚𝕟 \space  𝕙𝕖𝕝𝕝,\space  𝕝𝕠𝕠𝕜𝕚𝕟𝕘 \space 𝕒𝕥 \space  𝕙𝕖𝕒𝕧𝕖𝕟.}$$
+  <br>   
+ </font> 
+</p>
